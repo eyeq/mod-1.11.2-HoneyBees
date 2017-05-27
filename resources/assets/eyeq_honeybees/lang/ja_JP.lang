@@ -1,0 +1,8 @@
+item.honey.name=はちみつ
+item.honeyBread.name=はちみつパン
+item.mead.name=はちみつ酒
+tile.honeyTorch.name=ハチ寄せ棒
+entity.Bee.name=ハチ
+itemGroup.HoneyBees=ミツバチ
+tile.beehive.name=巣箱
+item.imkerHelmet.name=防護ヘルメット

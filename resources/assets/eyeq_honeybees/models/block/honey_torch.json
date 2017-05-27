@@ -1,0 +1,6 @@
+{
+	"parent": "block/torch",
+	"textures": {
+		"torch": "eyeq_honeybees:blocks/honey_torch"
+	}
+}

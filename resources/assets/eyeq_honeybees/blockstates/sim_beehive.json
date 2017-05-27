@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=down": { "model": "eyeq_honeybees:sim_beehive" },
+		"facing=up": { "model": "eyeq_honeybees:sim_beehive" },
+		"facing=north": { "model": "eyeq_honeybees:sim_beehive" },
+		"facing=south": { "model": "eyeq_honeybees:sim_beehive", "y": 180 },
+		"facing=west":	{ "model": "eyeq_honeybees:sim_beehive", "y": 270 },
+		"facing=east":	{ "model": "eyeq_honeybees:sim_beehive", "y": 90 }
+	}
+}
